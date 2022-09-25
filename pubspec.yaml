@@ -13,3 +13,7 @@ dependencies:
   nyxx_interactions: ^4.2.1
   nyxx_lavalink: ^3.0.1
   nyxx_pagination: ^2.2.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
